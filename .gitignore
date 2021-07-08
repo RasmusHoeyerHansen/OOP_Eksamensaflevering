@@ -11,12 +11,10 @@
 *.dll
 *.props
 *.targets
-*.cs
 *.exe
 *.CopyComplete
 *.txt
 .vs/Stregsystem/v16/.suo
 .vs/Stregsystem/v16/.suo
-*.csv
 *.testlog
 *.testlog
